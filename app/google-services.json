@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "781433781733",
+    "firebase_url": "https://fir-learning-b27fb.firebaseio.com",
+    "project_id": "fir-learning-b27fb",
+    "storage_bucket": "fir-learning-b27fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781433781733:android:52e4f29bdbf78600",
+        "android_client_info": {
+          "package_name": "com.example.esdras.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781433781733-5tquut985c2klhhj1igt2hpttlm9vns2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.esdras.firebaselearning",
+            "certificate_hash": "198775ea800e7778170af1a8e9d7514cf72ae294"
+          }
+        },
+        {
+          "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6UfVbM0mIlPc9f0ZFtJm-JuRVTsUENw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781433781733:android:655f04fe75c1213f",
+        "android_client_info": {
+          "package_name": "com.esdras.firebaselearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781433781733-csu7pqdvsmk7727gceo66cfonac246mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esdras.firebaselearning",
+            "certificate_hash": "4384a570a0a41f81eb6041664d09f2c3b39e1ae8"
+          }
+        },
+        {
+          "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6UfVbM0mIlPc9f0ZFtJm-JuRVTsUENw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781433781733:android:332987f270954fe2",
+        "android_client_info": {
+          "package_name": "com.esdras.permissions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781433781733-bihd6bajnl29o5uhhn83imb77t7bgm62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esdras.permissions",
+            "certificate_hash": "4384a570a0a41f81eb6041664d09f2c3b39e1ae8"
+          }
+        },
+        {
+          "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6UfVbM0mIlPc9f0ZFtJm-JuRVTsUENw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781433781733:android:61f0d71d5635966d",
+        "android_client_info": {
+          "package_name": "com.esdras.aprendendofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781433781733-jhti46nh2pf9isjpbemrqku6j9k22lcp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esdras.aprendendofirebase",
+            "certificate_hash": "4384a570a0a41f81eb6041664d09f2c3b39e1ae8"
+          }
+        },
+        {
+          "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6UfVbM0mIlPc9f0ZFtJm-JuRVTsUENw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781433781733:android:b181171613283183",
+        "android_client_info": {
+          "package_name": "com.esdras.albeacon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781433781733-3m96rl9i69ofsrv5t4kuuj37tnem468g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.esdras.albeacon",
+            "certificate_hash": "4384a570a0a41f81eb6041664d09f2c3b39e1ae8"
+          }
+        },
+        {
+          "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu6UfVbM0mIlPc9f0ZFtJm-JuRVTsUENw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781433781733-l9fekcb5kfagvb4dak0qq69bo3hd31e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
